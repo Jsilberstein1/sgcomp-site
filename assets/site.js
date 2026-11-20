@@ -1,5 +1,5 @@
 (function(){
-  var EMAIL='info@sgbuildersllc.com', TEL='+17166766333', TELD='(716) 676-6333';
+  var EMAIL='info@sgcomp.us', TEL='+17166766333', TELD='(716) 676-6333';
   // Mobile menu
   var btn=document.querySelector('header button[aria-label]');
   if(btn){
